@@ -125,7 +125,7 @@ Note: do not use < or > in your password, as both can cause problems in Web brow
 <br>
 (Student is free to decide the input and output layout for this mini project)
 
-[``Solution``]()
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-4.py)
 
  <br><br>
 
