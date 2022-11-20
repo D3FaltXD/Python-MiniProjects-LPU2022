@@ -13,7 +13,7 @@ Make sure to Star the repo and Follow the contributors!
 
 ## Thanks to all contributors!
 <a href = "https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=D3FaltXD/Python-MiniProjects-LPU2022"/>
+   <img src = "https://contrib.rocks/image?repo=D3FaltXD/Python-MiniProjects-LPU2022">
 </a>
 
 <br>
@@ -362,7 +362,7 @@ Output: 0°
 
 <br><br>
 
-[`Solved`](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-18.py)
+[`Solution`](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-18.py)
 
 
 <br>
