@@ -17,8 +17,8 @@ def gen(max): #Password generator func
                      'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y',
                      'Z']
  
-    s = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~', '>',
-           '*', '(', ')', '<']
+    s = ['@', '#', '$', '%', '=', ':', '?', '.', '/', '|', '~',
+           '*', '(', ')']
  
     COMBINED_LIST = d + uc + lc + s
  
@@ -59,10 +59,10 @@ while(True):
     \n\rPress 1 to generate Password: """))
     if(response==1):
         len=int(input("Please enter the password length: "))
-        if(len>=6):
+        if(len>=12):
             print("\n\nThe random password is: %s"%(gen(len)))
-        elif(len<6):
-            print("Please enter a length more than or equal to 6")
+        elif(len<12):
+            print("Please enter a length more than or equal to 12")
         else:
             print("Error Please enter a correct value")
     elif(response==0):
