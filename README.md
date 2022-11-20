@@ -39,7 +39,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-4 ](#project-4)
   - [Projecy-5 ](#project-5)
   - [Projecy-6 ](#project-6)
-  - [Projecy-7 (Unsolved)](#project-7)
+  - [Projecy-7 ](#project-7)
   - [Projecy-8 ](#project-8)
   - [Projecy-9 (Unsolved)](#project-9)
   - [Projecy-10 (Unsolved)](#project-10)
@@ -198,7 +198,7 @@ Hint: You can use split and indexing to fetch the first word and then combine it
 
 ## Project-7
 
-## `Need Solution`
+## `Solved`
 
 The task is to generate a random story every time user runs the program.<br><br>
 Every time the user runs the program, we must produce a random tale. We'll first store the portions of the tales in distinct lists, and then use the Random module to choose random sections of the stories from those lists:<br><br>
@@ -209,6 +209,11 @@ Hint: <br>
 - Random module can be used to select random parts of the story stored in different lists.
 - Sections of the story can be an adjective, a preposition, a proper noun, etc.
 <br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-5.py)
+
+<br>
+<br>
 
 ## Project-8
 
