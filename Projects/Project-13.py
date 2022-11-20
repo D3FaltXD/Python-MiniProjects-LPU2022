@@ -1,3 +1,5 @@
+#Program to print multiplication table using OOPs
+
 class MultiplyTable():
     description="Generates Multiplication table"
     def table(n):

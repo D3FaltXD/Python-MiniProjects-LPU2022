@@ -1,3 +1,5 @@
+#Program to find angle between hour and minutes hand
+
 def clockangle(hour, minutes):
   if 00 <= hour <= 24 and 00 <= minutes <= 60:
     #converting the 24hr format to 12 to make calculation easier

@@ -1,3 +1,6 @@
+
+# Project to make a Random Password generator
+
 from random import *
 import array
  

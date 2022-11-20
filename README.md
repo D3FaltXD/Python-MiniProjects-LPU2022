@@ -34,7 +34,7 @@ Make sure to Star the repo and Follow the contributors!
   - [Projecy-5 ](#project-5)
   - [Projecy-6 (Unsolved)](#project-6)
   - [Projecy-7 (Unsolved)](#project-7)
-  - [Projecy-8 (Unsolved)](#project-8)
+  - [Projecy-8 ](#project-8)
   - [Projecy-9 (Unsolved)](#project-9)
   - [Projecy-10 (Unsolved)](#project-10)
   - [Projecy-11 ](#project-11)
@@ -191,11 +191,15 @@ Hint: <br>
 
 ## Project-8
 
-## `Need Solution`
+## `Solved`
 
 Your task is to build a currency converter that will allow you to convert currencies from one unit to another, such as converting Indian rupee into pounds, euros, US dollar, Canadian dollar, Chinese yuan, Russia’s Rubal, etc. or vice versa.<br><br>
 In this project build a TUI (Text based user interface), where you will enter the source currency to be converted and conversion rate. And after conversion display the amount in the target currency.<br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-8.py)
+
 <br><br>
 
 ## Project-9
