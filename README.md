@@ -193,9 +193,3 @@ In this project build a TUI (Text based user interface), where you will enter th
 <br>
 <br>
 
-<div align="center"  class="icons-social" style="margin-left: 10px;">
- <a   target="_blank" href="https://discord.gg/AHAqK569Hq">
-			<img src="images/join_us.png"></a>
-   <br>
-	<small>A Hackathon 2022 Repo </small>
-</div>
