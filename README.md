@@ -16,6 +16,11 @@ Make sure to Star the repo and Follow the contributors!
    <img src = "https://contrib.rocks/image?repo=D3FaltXD/Python-MiniProjects-LPU2022">
 </a>
 
+| Name | Github Profile |
+| --- | --- |
+| Sayan Roy | https://github.com/D3FaltXD |
+| Aditya Kumar Singh | https://github.com/DashingAdi |
+
 <br>
 <br>
 
@@ -497,4 +502,14 @@ Non leap years are:
 ```
 git clone "https://github.com/D3FaltXD/Python-MiniProjects-LPU2022"
 ```
-- Add your project
+- Add your project file
+
+- Commit
+```
+git commit -m "Added Files"
+```
+
+- Push
+```
+git push
+```
