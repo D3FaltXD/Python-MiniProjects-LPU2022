@@ -180,7 +180,7 @@ As a result, the compiler generates a random integer between the range and store
 
 ## Project-6
 
-## `Need Solution`
+## `Solved`
 
 You need to write a python script that generates an acronym word from a given sentence.<br><br>
 - Take multiple strings as input in the form of list.
