@@ -37,7 +37,7 @@ Make sure to Star the repo and Follow the contributors!
   - [Projecy-8 (Unsolved)](#project-8)
   - [Projecy-9 (Unsolved)](#project-9)
   - [Projecy-10 (Unsolved)](#project-10)
-  - [Projecy-11 (Unsolved)](#project-11)
+  - [Projecy-11 ](#project-11)
   - [Projecy-12 (Unsolved)](#project-12)
   - [Projecy-13 ](#project-13)
   - [Projecy-14 (Unsolved)](#project-14)
