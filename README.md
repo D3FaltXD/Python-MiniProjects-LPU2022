@@ -34,7 +34,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 - [ How-to-Contribute ](#How-to-Contribute)
 - [ Project-List](#Project-List)
   - [Projecy-1 ](#project-1)
-  - [Projecy-2 (Unsolved)](#project-2)
+  - [Projecy-2 ](#project-2)
   - [Projecy-3 ](#project-3)
   - [Projecy-4 ](#project-4)
   - [Projecy-5 ](#project-5)
@@ -108,6 +108,7 @@ Hint: Make use of random module to design the game
 (Student is free to decide the input and output layout for this mini project)
 <br><br>
 
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-2.py)
 
 ## Project-3
 
