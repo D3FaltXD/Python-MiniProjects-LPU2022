@@ -49,14 +49,14 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-14 (Unsolved)](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
   - [Projecy-16 (Unsolved)](#project-16)
-  - [Projecy-17 ](#project-17)
+  - [Projecy-17 (unsolved)](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
   - [Projecy-20 (Unsolved)](#project-20)
   - [Projecy-21 ](#project-21)
   - [Projecy-22 (Unsolved)](#project-22)
   - [Projecy-23 ](#project-23)
-  - [Projecy-24 (Unsolved)](#project-24)
+  - [Projecy-24 ](#project-24)
 
 
 
@@ -383,9 +383,6 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Your task is create a converter which converts given roman numeral to an integer.<br>
 <br><br>
  (Student is free to decide the input and output layout for this mini project)
- <br><br>
-
- [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-17.py)
 
 <br>
 <br>
@@ -506,7 +503,7 @@ Deposit cash and display the status of the cash balance.
 
 ## Project-24
 
-## `Need Solution`
+## `Solved`
 
 Your task to create a functionality in which when user will input a range of two dates. Then your module will find and print all years in the range of given dates those are leap years separately and rest of the years those are non-leap separately.<br><br>
 For example:
@@ -524,6 +521,9 @@ Non leap years are:
 2001,2002,2005,2006,2007-----------------------------------------------------------------------
 <br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+ [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-24.py)
 
 <br>
 <br>
