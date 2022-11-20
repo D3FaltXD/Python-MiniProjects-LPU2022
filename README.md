@@ -38,7 +38,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-3 ](#project-3)
   - [Projecy-4 ](#project-4)
   - [Projecy-5 ](#project-5)
-  - [Projecy-6 (Unsolved)](#project-6)
+  - [Projecy-6 ](#project-6)
   - [Projecy-7 (Unsolved)](#project-7)
   - [Projecy-8 ](#project-8)
   - [Projecy-9 (Unsolved)](#project-9)
@@ -49,7 +49,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-14 (Unsolved)](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
   - [Projecy-16 (Unsolved)](#project-16)
-  - [Projecy-17 (Unsolved)](#project-17)
+  - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
   - [Projecy-20 (Unsolved)](#project-20)
@@ -189,6 +189,11 @@ You need to write a python script that generates an acronym word from a given se
 (Student is free to decide the input and output layout for this mini project)
 Hint: You can use split and indexing to fetch the first word and then combine it.
 <br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-6.py)
+
+<br>
+<br>
 
 ## Project-7
 
@@ -377,6 +382,9 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Your task is create a converter which converts given roman numeral to an integer.<br>
 <br><br>
  (Student is free to decide the input and output layout for this mini project)
+ <br><br>
+
+ [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-17.py)
 
 <br>
 <br>
