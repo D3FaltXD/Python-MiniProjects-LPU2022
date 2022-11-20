@@ -25,6 +25,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | Sayan Roy | https://github.com/D3FaltXD |
 | Aditya Kumar Singh | https://github.com/DashingAdi |
 | Paarth Mandyal | https://github.com/DaRkZ1177 |
+| Shivam | https://github.com/dimebot |
 
 <br>
 <br>
@@ -43,7 +44,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-9 (Unsolved)](#project-9)
   - [Projecy-10 (Unsolved)](#project-10)
   - [Projecy-11 ](#project-11)
-  - [Projecy-12 (Unsolved)](#project-12)
+  - [Projecy-12 ](#project-12)
   - [Projecy-13 ](#project-13)
   - [Projecy-14 (Unsolved)](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
@@ -282,6 +283,9 @@ Because if we plot Fibonacci series 0 1 1 2 3 5 8 13……, In this series 0 is 
 Constraint: range of the single number or multiple numbers you are entering can be huge.<br>
 <br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-1.py)
 
 <br>
 <br>
