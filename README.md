@@ -2,6 +2,10 @@
 <br>
 <br>
 
+![GitHub repo size](https://img.shields.io/github/repo-size/D3FaltXD/Python-MiniProjects-LPU2022)
+![GitHub stars](https://img.shields.io/github/stars/D3FaltXD/Python-MiniProjects-LPU2022)
+![GitHub forks](https://img.shields.io/github/forks/D3FaltXD/Python-MiniProjects-LPU2022)
+
 # Python Mini Projects
 
 An open source repo consisting of all the Python projects
