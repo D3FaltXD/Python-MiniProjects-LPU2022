@@ -53,7 +53,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
   - [Projecy-20 (Unsolved)](#project-20)
-  - [Projecy-21 (Unsolved)](#project-21)
+  - [Projecy-21 ](#project-21)
   - [Projecy-22 (Unsolved)](#project-22)
   - [Projecy-23 ](#project-23)
   - [Projecy-24 (Unsolved)](#project-24)
@@ -445,7 +445,7 @@ Note:  2 < = N <= 100
 
 ## Project-21
 
-## `Need Solution`
+## `Solved`
 
 Your task is to find if it is possible to cut the cake in the below mentioned ways for a given value of N.<br><br>
 Given an integer N and a cake which can be cut into pieces, each cut should be a straight line going from the center of the cake to its border. Also, the angle between any two cuts must be a positive integer. Two pieces are equal if their appropriate angles are equal. <br><br>
@@ -455,6 +455,10 @@ The given cake can be cut in following three ways:
 - Cut the cake into N pieces such that no two of them are equal.
 
 (Student is free to decide the input and output layout for this mini project
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-1.py)
+
 
 <br>
 <br>

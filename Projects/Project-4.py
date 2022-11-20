@@ -1,4 +1,4 @@
-
+#Full project at : https://github.com/D3FaltXD/Password-Generator-Project
 # Project to make a Random Password generator
 
 from random import *
@@ -47,10 +47,25 @@ def gen(max): #Password generator func
             password = password + x
     return password
 
-len=int(input("Please enter the password length: "))
-if(len>=6):
-    print("The random password is: %s"%(gen(len)))
-elif(len<6):
-    print("Please enter a length more than or equal to 6")
-else:
-    print("Error Please enter a correct value")
+
+print(""" 
+░█▀▀█ █▀▀█ █▀▀ █▀▀ █───█ █▀▀█ █▀▀█ █▀▀▄ 　 ░█▀▀█ █▀▀ █▀▀▄ █▀▀ █▀▀█ █▀▀█ ▀▀█▀▀ █▀▀█ █▀▀█ 
+░█▄▄█ █▄▄█ ▀▀█ ▀▀█ █▄█▄█ █──█ █▄▄▀ █──█ 　 ░█─▄▄ █▀▀ █──█ █▀▀ █▄▄▀ █▄▄█ ──█── █──█ █▄▄▀ 
+░█─── ▀──▀ ▀▀▀ ▀▀▀ ─▀─▀─ ▀▀▀▀ ▀─▀▀ ▀▀▀─ 　 ░█▄▄█ ▀▀▀ ▀──▀ ▀▀▀ ▀─▀▀ ▀──▀ ──▀── ▀▀▀▀ ▀─▀▀ """)
+
+while(True):
+    response=int(input("""\n\nWelcome To Password Generator ! 
+    \n\rPress 0 to Exit
+    \n\rPress 1 to generate Password: """))
+    if(response==1):
+        len=int(input("Please enter the password length: "))
+        if(len>=6):
+            print("\n\nThe random password is: %s"%(gen(len)))
+        elif(len<6):
+            print("Please enter a length more than or equal to 6")
+        else:
+            print("Error Please enter a correct value")
+    elif(response==0):
+        break
+    else:
+        print("Invalid Input")
