@@ -26,7 +26,7 @@ Make sure to Star the repo and Follow the contributors!
   - [Projecy-2 (Unsolved)](#project-2)
   - [Projecy-3 (Unsolved)](#project-3)
   - [Projecy-4 ](#project-4)
-  - [Projecy-5 (Unsolved)](#project-5)
+  - [Projecy-5 ](#project-5)
   - [Projecy-6 (Unsolved)](#project-6)
   - [Projecy-7 (Unsolved)](#project-7)
   - [Projecy-8 (Unsolved)](#project-8)
@@ -34,7 +34,7 @@ Make sure to Star the repo and Follow the contributors!
   - [Projecy-10 (Unsolved)](#project-10)
   - [Projecy-11 (Unsolved)](#project-11)
   - [Projecy-12 (Unsolved)](#project-12)
-  - [Projecy-13 (Unsolved)](#project-13)
+  - [Projecy-13 ](#project-13)
   - [Projecy-14 (Unsolved)](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
   - [Projecy-16 (Unsolved)](#project-16)
@@ -131,7 +131,7 @@ Note: do not use < or > in your password, as both can cause problems in Web brow
 
 ## Project-5
 
-## `Need Solution`
+## `Solved`
 
 The task is to create a script that generates a random number between a fixed range, and  if the user guesses the number right in three chances, then user wins otherwise user lose.
 This game user can play as many numbers of times and whenever user wins a score is to be given to the user.<br><br>
@@ -148,6 +148,10 @@ As a result, the compiler generates a random integer between the range and store
 <br><br>
 
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-23.py)
+
 <br>
 <br>
 
@@ -258,13 +262,16 @@ Constraint: range of the single number or multiple numbers you are entering can 
 
 ## Project-13
 
-## `Need Solution`
+## `Solved`
 
 Create a multiplication table application where user will enter a sentinel value n and the application will display the mathematical multiplication tables till given sentinel value n.<br><br>
 For example, if user enters n = 4 then application will display the multiplication tables of 2, 3, and 4.
 Constraint:<br><br>
 Make use of oop concepts class methods and attributes
 <br>(Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-13.py)
 
 <br>
 <br>
@@ -449,6 +456,7 @@ Deposit cash and display the status of the cash balance.
 (Your task is to design and implement the ATM functionality by taking care of all constraints, for example if minimum cash available is less than 5000 then system will display low balance)<br><br>
 (Student is free to decide the input and output layout for this mini project)
 <br><br>
+
 [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-23.py)
 
 
@@ -479,5 +487,14 @@ Non leap years are:
 <br>
 <br>
 
+# How-To-Contribute
 
+> Check [here](https://www.youtube.com/watch?v=8A4TsoXJOs8) for the full details on how to create a Pull Request
 
+- [Fork](https://github.com/login?return_to=%2FD3FaltXD%2FPython-MiniProjects-LPU2022) the repo
+
+- Clone the repo
+```
+git clone "https://github.com/D3FaltXD/Python-MiniProjects-LPU2022"
+```
+- Add your project
