@@ -1,4 +1,5 @@
 # A python code to design an ATM machine
+# Default Password is: 1234
 
 # start by defining some functions to make our code stress free
 def substract(a, b):
@@ -28,7 +29,7 @@ def thanks():
 
 def main():
     print("________________________________ \n")
-    name = print("WELCOME TO LAXMI CHIT FUND")
+    name = print("WELCOME TO ATM Machine")
     print("________________________________ \n")
 
     balance = int(1000000)
@@ -42,10 +43,10 @@ def main():
         	break
         elif count==0:
         	pin = int(input("Enter your pin: "))
-        	password = 6969
+        	password = 1234
         else:
         	pin = int(input("Enter your pin again: "))
-        	password = 6969
+        	password = 1234
         if password != pin:
             print("Pin Incorrect!")
             count+=1
