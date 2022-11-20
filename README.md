@@ -49,7 +49,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-14 (Unsolved)](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
   - [Projecy-16 (Unsolved)](#project-16)
-  - [Projecy-17 (unsolved)](#project-17)
+  - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
   - [Projecy-20 (Unsolved)](#project-20)
@@ -383,6 +383,10 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 Your task is create a converter which converts given roman numeral to an integer.<br>
 <br><br>
  (Student is free to decide the input and output layout for this mini project)
+ <br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-17.py)
+
 
 <br>
 <br>
