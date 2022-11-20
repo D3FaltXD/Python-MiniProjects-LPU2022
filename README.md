@@ -27,6 +27,8 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | Paarth Mandyal | https://github.com/DaRkZ1177 |
 | Shivam | https://github.com/dimebot |
 | Nilesh Kumar Gupta | https://github.com/Nilesh220 |
+| Shushant Kumar Awasthi | https://github.com/awasthi108 |
+
 <br>
 <br>
 
