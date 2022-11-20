@@ -1,3 +1,4 @@
+#Program for Fibonacii numbers
 import math
 a=input("Enter a number or numbers: ").split(",")
 l1=[]
