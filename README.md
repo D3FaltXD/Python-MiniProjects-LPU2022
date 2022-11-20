@@ -6,7 +6,7 @@
 
 An open source repo consisting of all the Python projects
 <br><br>
-Make sure to Star the repo and Follow the contributors!
+Make sure to **STAR** the repo and **FOLLOW** the contributors!
 
 <br>
 <br>
