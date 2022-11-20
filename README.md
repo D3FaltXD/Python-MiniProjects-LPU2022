@@ -24,6 +24,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | --- | --- |
 | Sayan Roy | https://github.com/D3FaltXD |
 | Aditya Kumar Singh | https://github.com/DashingAdi |
+| Paarth Mandyal | https://github.com/DaRkZ1177 |
 
 <br>
 <br>
@@ -31,9 +32,9 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 # Table of Contents
 - [ How-to-Contribute ](#How-to-Contribute)
 - [ Project-List](#Project-List)
-  - [Projecy-1 (Unsolved)](#project-1)
+  - [Projecy-1 ](#project-1)
   - [Projecy-2 (Unsolved)](#project-2)
-  - [Projecy-3 (Unsolved)](#project-3)
+  - [Projecy-3 ](#project-3)
   - [Projecy-4 ](#project-4)
   - [Projecy-5 ](#project-5)
   - [Projecy-6 (Unsolved)](#project-6)
@@ -66,7 +67,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 Contribute to the projects which are tagged as `Need Solution`
 
 ## Project-1 
-## `Need Solution`
+## `Solved`
 Design a project where as an input student will give a static number (between 1 to 6) and then roll the dice which randomly generate some value between 1 to 6. The winning situation arrives when the given static/fixed number exactly same to the number came after rolling the dice.<br>
 <br>
 User can play the game as many numbers of times he wants until user wants to exit, and whenever winning situation occur some scores must be given to the user, and these scores goes on adding if user play this game multiple number of times.
@@ -75,6 +76,10 @@ Note: Dice contains face value’s (1 to 6)<br>
 Hint: Make use of random.randint() function <br>
 <br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-1.py)
+
 <br><br>
 
 
@@ -102,9 +107,10 @@ Hint: Make use of random module to design the game
 (Student is free to decide the input and output layout for this mini project)
 <br><br>
 
+
 ## Project-3
 
-## `Need Solution`
+## `Solved`
 
 Email Slicer is just a simple tool that will take multiple email address as an input and slice it to produce the username and the domain associated with it. The email must be divided into two strings by using ‘@’ as the separator.<br><br>
 So, user provides n number of email addresses and you have to design a logic to slice the username and the domain out of those email addresses. The domain part must print in capitals.
@@ -116,6 +122,10 @@ after slicing<br>
 username :abc and domain: GMAIL.COM<br>
 username: xyz and domain: YAHOO.COM<br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-3.py)
+
 <br><br>
 
 ## Project 4
