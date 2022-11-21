@@ -22,4 +22,4 @@ while c != rangenumber:
     num = num + 1
 print(rangenumber,"th Prime Pallindrome Number is ",letest)
 print()
-print("Thank You :)")
+print("Thank You:)")
