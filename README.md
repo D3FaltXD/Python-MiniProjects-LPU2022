@@ -25,6 +25,8 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 <a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/awasthi108"><img src="https://avatars.githubusercontent.com/u/79709621?v=4" height="64"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
 </div>
 
 | Name | Github Profile |
@@ -35,6 +37,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | Shivam | https://github.com/dimebot |
 | Nilesh Kumar Gupta | https://github.com/Nilesh220 |
 | Shushant Kumar Awasthi | https://github.com/awasthi108 |
+| HARSH VARDHAN SINGH | https://github.com/harsh082ip|
 
 <br>
 <br>
@@ -57,11 +60,11 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-13 ](#project-13)
   - [Projecy-14 ](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
-  - [Projecy-16 (Unsolved)](#project-16)
+  - [Projecy-16 ](#project-16)
   - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
-  - [Projecy-20 (Unsolved)](#project-20)
+  - [Projecy-20 ](#project-20)
   - [Projecy-21 ](#project-21)
   - [Projecy-22 (Unsolved)](#project-22)
   - [Projecy-23 ](#project-23)
@@ -371,13 +374,16 @@ Count: 1 prime and 3 composite numbers in the range.<br><br>
 
 ## Project-16
 
-## `Need Solution`
+## `Solved`
 
 Design an application where user will input two dates.
 His/her date of birth in DD/MM/YY format.
 Current (Present day) date in DD/MM/YY format.
 Your app will calculate and let the user know how many days that person survived in this world.
 Note: Your calculation must be accurate and you have to consider leap and non-leap years separately.
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-16.py)
 
 <br>
 <br>
@@ -448,7 +454,7 @@ A prime number, such as 127, has no factors other than itself and one. A palindr
 
 ## Project-20
 
-## `Need Solution`
+## `Solved`
 
 A basket is given to you in the shape of a matrix. If the size of the matrix is N x N then the range of number of eggs you can put in each slot of the basket is 1 to N2 . <br>Your task is to arrange the eggs in the basket such that the sum of each row, column and the diagonal of the matrix remain same.
 <br><br>
@@ -469,6 +475,10 @@ Explanation:
 Note:  2 < = N <= 100
 <br><br> 
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-20.py)
+
 
 <br>
 <br>
