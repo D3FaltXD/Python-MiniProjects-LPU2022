@@ -54,7 +54,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-7 ](#project-7)
   - [Projecy-8 ](#project-8)
   - [Projecy-9 ](#project-9)
-  - [Projecy-10 (Unsolved)](#project-10)
+  - [Projecy-10 ](#project-10)
   - [Projecy-11 ](#project-11)
   - [Projecy-12 ](#project-12)
   - [Projecy-13 ](#project-13)
@@ -260,7 +260,7 @@ At the end display the details and score of the participant.
 
 ## Project-10
 
-## `Need Solution`
+## `Solved`
 
 You task is to build a scientific calculator that performs all the below listed functionalities.<br><br>
 Add, sub, multiply, divide, and mod (%) operations on entered integer or floating type numbers.<br>
@@ -270,6 +270,10 @@ Conversion from radian to degree and degree to radian.<br>
 
 Above listed operations user can perform as many numbers of times until user hits the exit.<br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-10.py)
+
 
 <br>
 <br>
