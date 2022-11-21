@@ -57,7 +57,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-13 ](#project-13)
   - [Projecy-14 ](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
-  - [Projecy-16 (Unsolved)](#project-16)
+  - [Projecy-16 ](#project-16)
   - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
@@ -371,13 +371,16 @@ Count: 1 prime and 3 composite numbers in the range.<br><br>
 
 ## Project-16
 
-## `Need Solution`
+## `Solved`
 
 Design an application where user will input two dates.
 His/her date of birth in DD/MM/YY format.
 Current (Present day) date in DD/MM/YY format.
 Your app will calculate and let the user know how many days that person survived in this world.
 Note: Your calculation must be accurate and you have to consider leap and non-leap years separately.
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-16.py)
 
 <br>
 <br>
