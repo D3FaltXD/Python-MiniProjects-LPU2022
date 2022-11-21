@@ -48,7 +48,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-11 ](#project-11)
   - [Projecy-12 ](#project-12)
   - [Projecy-13 ](#project-13)
-  - [Projecy-14 (Unsolved)](#project-14)
+  - [Projecy-14 ](#project-14)
   - [Projecy-15 (Unsolved)](#project-15)
   - [Projecy-16 (Unsolved)](#project-16)
   - [Projecy-17 ](#project-17)
@@ -321,7 +321,7 @@ Make use of oop concepts class methods and attributes
 
 ## Project-14
 
-## `Need Solution`
+## `Solved`
 
 You have to create a repository of your classmate’s name and mobile number’s. And whenever you want to search the mobile/contact number of some of your classmate, you can easily search it out from the repository you maintained.<br><br>
 Searching single contact is one of the functionalities, some 
@@ -331,6 +331,10 @@ other functionalities your app must cover are:
 <br><br>
 
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-14.py)
+
 
 <br>
 <br>
