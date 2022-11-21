@@ -17,9 +17,9 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 
 ## Thanks to all contributors!
 <div>
-<a href="https://github.com/D3FaltXD"><img src="https://avatars.githubusercontent.com/u/100018672?s=64&v=4"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DashingAdi"><img src="https://avatars.githubusercontent.com/u/60130665?s=64&v=4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DaRkZ1177"><img src="https://avatars.githubusercontent.com/u/118457055?s=64&v=4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/D3FaltXD"><img src="https://avatars.githubusercontent.com/u/100018672?v=4" height="64"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DashingAdi"><img src="https://avatars.githubusercontent.com/u/60130665?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DaRkZ1177"><img src="https://avatars.githubusercontent.com/u/118457055?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/dimebot"><img src="https://avatars.githubusercontent.com/u/115567475?s=64&v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
