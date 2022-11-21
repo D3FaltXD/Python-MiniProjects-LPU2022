@@ -1,30 +1,20 @@
 def forEvenNumber(n):
     arr = [[(n * y) + x + 1 for x in range(n)] for y in range(n)]
-
     for i in range(0, n // 4):
         for j in range(0, n // 4):
             arr[i][j] = (n * n + 1) - arr[i][j];
-
-
     for i in range(0, n // 4):
         for j in range(3 * (n // 4), n):
             arr[i][j] = (n * n + 1) - arr[i][j];
-
-
     for i in range(3 * (n // 4), n):
         for j in range(0, n // 4):
             arr[i][j] = (n * n + 1) - arr[i][j];
-
-
     for i in range(3 * (n // 4), n):
         for j in range(3 * (n // 4), n):
             arr[i][j] = (n * n + 1) - arr[i][j];
-
-
     for i in range(n // 4, 3 * (n // 4)):
         for j in range(n // 4, 3 * (n // 4)):
             arr[i][j] = (n * n + 1) - arr[i][j];
-
     print("\nSum of all row, column and diagonals = ",
           n * (n * n + 1) // 2, "\n")
     for i in range(n):
@@ -34,7 +24,6 @@ def forEvenNumber(n):
 def forOddNumber(n):
     mgsqr = [[0 for x in range(n)]
              for y in range(n)]
-
     r = n // 2
     c = n - 1
     num = 1
@@ -43,10 +32,8 @@ def forOddNumber(n):
             c = n - 2
             r = 0
         else:
-
             if c == n:
                 c = 0
-
             if r < 0:
                 r = n - 1
         if mgsqr[int(r)][int(c)]:
