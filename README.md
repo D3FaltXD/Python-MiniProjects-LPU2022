@@ -59,7 +59,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-12 ](#project-12)
   - [Projecy-13 ](#project-13)
   - [Projecy-14 ](#project-14)
-  - [Projecy-15 (Unsolved)](#project-15)
+  - [Projecy-15 ](#project-15)
   - [Projecy-16 ](#project-16)
   - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
@@ -355,7 +355,7 @@ other functionalities your app must cover are:
 
 ## Project-15
 
-## `Need Solution`
+## `Solved`
 
 In this project you have to enter a positive integer range [A, B] and system will find out the status (Prime or composite) of each number available in the given range. At the end print the count also.<br><br>
 Note: Make use of efficient approach to check prime status of the number.<br><br>
@@ -368,6 +368,10 @@ Then the status of each number in the range is:<br>
 10 is composite<br>
 Count: 1 prime and 3 composite numbers in the range.<br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-15.py)
+
 
 <br>
 <br>
