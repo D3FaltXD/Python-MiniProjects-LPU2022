@@ -1,6 +1,6 @@
 
 #Quiz Game
-question={"In school, Albert Einstein failed most of the subjects, except for physics and math.":"YeS",
+question={"In school, Albert Einstein failed most of the subjects, except for physics and math.":"Yes",
           "The first song ever sung in the space was Happy Birthday.":"Yes",
           " A male canary tends to have a better singing voice than a female canary.":"Yes",
           "Tea contains more caffeine than coffee and soda":"No",
