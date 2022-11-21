@@ -65,7 +65,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
   - [Projecy-19 (Unsolved)](#project-19)
-  - [Projecy-20 (Unsolved)](#project-20)
+  - [Projecy-20 ](#project-20)
   - [Projecy-21 ](#project-21)
   - [Projecy-22 (Unsolved)](#project-22)
   - [Projecy-23 ](#project-23)
@@ -455,7 +455,7 @@ A prime number, such as 127, has no factors other than itself and one. A palindr
 
 ## Project-20
 
-## `Need Solution`
+## `Solved`
 
 A basket is given to you in the shape of a matrix. If the size of the matrix is N x N then the range of number of eggs you can put in each slot of the basket is 1 to N2 . <br>Your task is to arrange the eggs in the basket such that the sum of each row, column and the diagonal of the matrix remain same.
 <br><br>
@@ -476,6 +476,10 @@ Explanation:
 Note:  2 < = N <= 100
 <br><br> 
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-20.py)
+
 
 <br>
 <br>
