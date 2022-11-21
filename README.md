@@ -50,7 +50,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-6 ](#project-6)
   - [Projecy-7 ](#project-7)
   - [Projecy-8 ](#project-8)
-  - [Projecy-9 (Unsolved)](#project-9)
+  - [Projecy-9 ](#project-9)
   - [Projecy-10 (Unsolved)](#project-10)
   - [Projecy-11 ](#project-11)
   - [Projecy-12 ](#project-12)
@@ -247,6 +247,10 @@ If the participant answers the quiz question correct, then congratulate him and 
 At the end display the details and score of the participant.
 <br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-9.py)
+
 
 <br>
 <br>
