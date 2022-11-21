@@ -239,7 +239,7 @@ In this project build a TUI (Text based user interface), where you will enter th
 
 ## Project-9
 
-## `Need Solution`
+## `Solved`
 
 You have to build a dictionary (Or any other container of your choice) which contains multiple True/false type quiz questions.<br><br>
 Every participant/user will attempt 5 rounds and in each round random quiz questions will be displayed to the user/participant.
