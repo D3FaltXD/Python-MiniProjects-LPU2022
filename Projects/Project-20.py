@@ -1,5 +1,4 @@
 def forEvenNumber(n):
-
     arr = [[(n * y) + x + 1 for x in range(n)] for y in range(n)]
 
     for i in range(0, n // 4):
@@ -32,20 +31,7 @@ def forEvenNumber(n):
         for j in range(n):
             print('%2d ' % (arr[i][j]), end=" ")
         print()
-
-
-
-
-
-
-
-
-
-
-
-
-
-def magicsquare(n):
+def forOddNumber(n):
     mgsqr = [[0 for x in range(n)]
              for y in range(n)]
 
@@ -78,37 +64,10 @@ def magicsquare(n):
         for j in range(0, n):
             print('%2d ' % (mgsqr[i][j]), end='')
         print()
-
 print("\nWELCOME:)\n")
 n = int(input("Please Enter Number of Rows and Column (n*n): "))
 if n%2==0:
     forEvenNumber(n)
 else:
-    magicsquare(n)
-
+    forOddNumber(n)
 print("\nThank You :)")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
