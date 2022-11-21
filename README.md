@@ -63,7 +63,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Projecy-16 ](#project-16)
   - [Projecy-17 ](#project-17)
   - [Projecy-18 ](#project-18)
-  - [Projecy-19 (Unsolved)](#project-19)
+  - [Projecy-19 ](#project-19)
   - [Projecy-20 ](#project-20)
   - [Projecy-21 ](#project-21)
   - [Projecy-22 (Unsolved)](#project-22)
@@ -443,11 +443,15 @@ Output: 0°
 
 ## Project-19
 
-## `Need Solution`
+## `Solved`
 
 Your task is to write a program to find the nth prime palindrome number, n is the input user will give.<br><br>
 A prime number, such as 127, has no factors other than itself and one. A palindrome, such as 121, is the same number when its digits are reversed. A prime palindrome, such as 131, is both prime and a palindrome. <br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-19.py)
+
 
 <br>
 <br>
