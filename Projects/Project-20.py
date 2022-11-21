@@ -86,7 +86,7 @@ if n%2==0:
 else:
     magicsquare(n)
 
-
+print("\nThank You :)")
 
 
 
