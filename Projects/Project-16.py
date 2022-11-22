@@ -4,13 +4,11 @@
 # A date has day 'd', month
 # 'm' and year 'y'
 
-
 class Date:
 	def __init__(self, d, m, y):
 		self.d = d
 		self.m = m
 		self.y = y
-
 
 # To store number of days in
 # all months from January to Dec.
@@ -19,7 +17,6 @@ monthDays = [31, 28, 31, 30, 31, 30,
 
 # This function counts number of
 # leap years before the given date
-
 
 def countLeapYears(d):
 
@@ -41,7 +38,6 @@ def countLeapYears(d):
 
 # This function returns number of
 # days between two given dates
-
 
 def getDifference(dt1, dt2):
 
