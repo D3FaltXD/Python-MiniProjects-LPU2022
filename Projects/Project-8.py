@@ -7,8 +7,6 @@ def convert(c1,a,c2):
         print("The Currency After Converting into %s is"%c2,(amount/currency[c2]))
     else:    
         print("The Currency After Converting into %s is"%c2,(amount/currency[c1])*currency[c2])
-    
-    
 
 print(" ---------------------- ")
 print("|  Currency Converter  |")
