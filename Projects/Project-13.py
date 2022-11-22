@@ -10,7 +10,6 @@ class MultiplyTable():
 
 val=int(input("Enter the value for the table :"))
 
-
 print(" ------------------------ ")
 print("|  Multiplication Table  |")
 print(" ------------------------ ")
