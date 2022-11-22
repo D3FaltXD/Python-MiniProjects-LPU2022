@@ -36,9 +36,7 @@ while True:
           print("You lost 😕\n")
           loses+=1
     b=[loses,score]
-    return b
-          
+    return b       
   b=dice_game(int(a),loses,score)
   loses=b[0]
   score=b[1]
-  
