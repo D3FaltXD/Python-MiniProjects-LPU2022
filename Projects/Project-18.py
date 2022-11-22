@@ -1,5 +1,7 @@
 #Program to find angle between hour and minutes hand
 
+
+
 def clockangle(hour, minutes):
   if 00 <= hour <= 24 and 00 <= minutes <= 60:
     #converting the 24hr format to 12 to make calculation easier
@@ -18,9 +20,13 @@ def clockangle(hour, minutes):
   else:
     print("Enter a correct time.")
     exit()
+    
+    
 print("_______________________________________________\n")
 print("Give a time in hh:mm format in 24 hour notation")
 print("_______________________________________________\n")
 postangle=clockangle(int(input("Hour: ")), int(input("Minutes: ")))
 angle=format(postangle,".2f")
 print("\nThe difference between the hour and the minute hand is", angle + "°")
+
+
