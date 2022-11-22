@@ -1,45 +1,22 @@
-#DESCRIPTION:
-#Email-Slicer: A program that extracts the username and domain from an email.
-
-
-#DETAILS:
-#The user will be asked to enter his/her email address.
-#The program will format the input (to prevent some errors).
-#The program returns the username and domain.
-
-#CODE:
-print('\t \t''\t''\t'"EMAIL SLICER")
-def mail(n):
-    for i in range(n):
-        email = input("Enter your Email: ").strip()
-        if '@' and '.com' not in email:
-            print("Enter valid Mail ID")
-            if n==1:
-                mail(n)
-            else:
-                mail(n-(n-1))               
-        else:
-            l.append(email)
-            n-=1
-def checking():
-    x=input("How many mails would you like to Slice:")
-    if x.isnumeric():
-        n=int(x)
-        if n<=0:
-            print("Enter a positive number")
-            checking()
-        else:
-            mail(n)
-    else:
-        print("Enter an Integer")
-        checking()
-l=[]
-checking()
-if l!=[]:
-    for i in l:
-        username = i[:i.index('@')]
-        domain = i[i.index('@')+1:]
-        domain=domain.upper()
-        print(f"your username is {username} & domain is {domain}")
-        
+print("\nWELCOME:)\n")
+n=int(input("How many Emails You Wants To Slice: "))
+for i in range(1,n+1):
+    n=str(input("\nEmail: "))
+    l=len(n)
+    d=0
+    for i in range(1,l):
+        if n[i]=='@':
+            d=i
+            break
+    if d>0:
+        a=""
+        for i in range(0,d):
+            a+=n[i]
+        print("User Name: ",a,end="")
+        q = ""
+        for j in range(d+1,len(n)):
+            q+=n[j]
+        print("\nDomain: ",q,end="",)
+        print()
+print("\nThank You :)")
 
