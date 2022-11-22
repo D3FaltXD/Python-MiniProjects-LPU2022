@@ -1,9 +1,7 @@
 #This is a guess the number game.
 import random
 
-
 print("Hello!")
-
 
 myName=input("Enter Your name: ")
 print("\nWelcome, " + myName)
