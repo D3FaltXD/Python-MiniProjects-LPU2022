@@ -45,30 +45,30 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 # Table of Contents
 - [ How-to-Contribute ](#How-to-Contribute)
 - [ Project-List](#Project-List)
-  - [Projecy-1 ](#project-1)
-  - [Projecy-2 ](#project-2)
-  - [Projecy-3 ](#project-3)
-  - [Projecy-4 ](#project-4)
-  - [Projecy-5 ](#project-5)
-  - [Projecy-6 ](#project-6)
-  - [Projecy-7 ](#project-7)
-  - [Projecy-8 ](#project-8)
-  - [Projecy-9 ](#project-9)
-  - [Projecy-10 ](#project-10)
-  - [Projecy-11 ](#project-11)
-  - [Projecy-12 ](#project-12)
-  - [Projecy-13 ](#project-13)
-  - [Projecy-14 ](#project-14)
-  - [Projecy-15 ](#project-15)
-  - [Projecy-16 ](#project-16)
-  - [Projecy-17 ](#project-17)
-  - [Projecy-18 ](#project-18)
-  - [Projecy-19 ](#project-19)
-  - [Projecy-20 ](#project-20)
-  - [Projecy-21 ](#project-21)
-  - [Projecy-22 (Unsolved)](#project-22)
-  - [Projecy-23 ](#project-23)
-  - [Projecy-24 ](#project-24)
+  - [Project-1 ](#project-1)
+  - [Project-2 ](#project-2)
+  - [Project-3 ](#project-3)
+  - [Project-4 ](#project-4)
+  - [Project-5 ](#project-5)
+  - [Project-6 ](#project-6)
+  - [Project-7 ](#project-7)
+  - [Project-8 ](#project-8)
+  - [Project-9 ](#project-9)
+  - [Project-10 ](#project-10)
+  - [Project-11 ](#project-11)
+  - [Project-12 ](#project-12)
+  - [Project-13 ](#project-13)
+  - [Project-14 ](#project-14)
+  - [Project-15 ](#project-15)
+  - [Project-16 ](#project-16)
+  - [Project-17 ](#project-17)
+  - [Project-18 ](#project-18)
+  - [Project-19 ](#project-19)
+  - [Project-20 ](#project-20)
+  - [Project-21 ](#project-21)
+  - [Project-22 (Unsolved)](#project-22)
+  - [Project-23 ](#project-23)
+  - [Project-24 ](#project-24)
 
 
 
@@ -304,7 +304,7 @@ Then the properties followed by this number are:
 
 ## Project-12
 
-## `Need Solution`
+## `Solved`
 
 n this project user will enter single or multiple numbers and your system will predict that the entered number or number’s is/are valid number(s) in a Fibonacci series or not.<br><br>
 For example, if user inputs 2 numbers<br>
