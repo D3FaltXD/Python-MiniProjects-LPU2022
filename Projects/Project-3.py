@@ -1,7 +1,6 @@
 #DESCRIPTION:
 #Email-Slicer: A program that extracts the username and domain from an email.
 
-
 #DETAILS:
 #The user will be asked to enter his/her email address.
 #The program will format the input (to prevent some errors).
