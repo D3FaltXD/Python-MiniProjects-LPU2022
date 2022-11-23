@@ -26,8 +26,13 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/awasthi108"><img src="https://avatars.githubusercontent.com/u/79709621?v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
+<br><br>
 <a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/PriyanshK09"><img src="https://avatars.githubusercontent.com/u/75330418?v=4" height="64"></a>
+
 </div>
+<br><br>
 
 | Name | Github Profile |
 | --- | --- |
@@ -38,6 +43,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | Nilesh Kumar Gupta | https://github.com/Nilesh220 |
 | Shushant Kumar Awasthi | https://github.com/awasthi108 |
 | HARSH VARDHAN SINGH | https://github.com/harsh082ip|
+| Priyansh Khare | https://github.com/PriyanshK09 |
 
 <br>
 <br>
@@ -66,7 +72,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
   - [Project-19 ](#project-19)
   - [Project-20 ](#project-20)
   - [Project-21 ](#project-21)
-  - [Project-22 (Unsolved)](#project-22)
+  - [Project-22 ](#project-22)
   - [Project-23 ](#project-23)
   - [Project-24 ](#project-24)
 
@@ -527,6 +533,9 @@ You are given three lists’ names, mark’s and update’s where:
 
 (Number of levels a student is ranking up or down must be displayed) <br><br>
 (Student is free to decide the input and output layout for this mini project)
+<br><br>
+
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-22.py)
 
 <br>
 <br>
