@@ -1,5 +1,5 @@
 # Rock Paper Scissor
-
+#code is too long
 import time
 from random import *
 from os import system
