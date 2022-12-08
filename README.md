@@ -400,6 +400,7 @@ Note: Your calculation must be accurate and you have to consider leap and non-le
 <br><br>
 
 [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-16.py)
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-16-2.py)
 
 <br>
 <br>
