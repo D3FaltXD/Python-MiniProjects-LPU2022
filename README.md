@@ -30,6 +30,8 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 <a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/PriyanshK09"><img src="https://avatars.githubusercontent.com/u/75330418?v=4" height="64"></a>
+<a href="https://github.com/ashwanidey"><img src="https://github.com/ashwanidey" height="64"></a>
+
 
 </div>
 <br><br>
