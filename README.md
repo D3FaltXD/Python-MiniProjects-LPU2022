@@ -17,20 +17,9 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 
 ## Thanks to all contributors!
 <div>
-<a href="https://github.com/D3FaltXD"><img src="https://avatars.githubusercontent.com/u/100018672?v=4" height="64"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DashingAdi"><img src="https://avatars.githubusercontent.com/u/60130665?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/DaRkZ1177"><img src="https://avatars.githubusercontent.com/u/118457055?v=4" height="64"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dimebot"><img src="https://avatars.githubusercontent.com/u/115567475?s=64&v=4" height="64"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Nilesh220"><img src="https://avatars.githubusercontent.com/u/113936379?v=4" height="64"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/awasthi108"><img src="https://avatars.githubusercontent.com/u/79709621?v=4" height="64"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<br><br>
-<a href="https://github.com/harsh082ip"><img src="https://avatars.githubusercontent.com/u/109286547?v=4" height="64"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/PriyanshK09"><img src="https://avatars.githubusercontent.com/u/75330418?v=4" height="64"></a>
-<a href="https://github.com/ashwanidey"><img src="https://github.com/ashwanidey" height="64"></a>
+<a href="https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=D3FaltXD/Python-MiniProjects-LPU2022" />
+</a>
 
 
 </div>
@@ -46,6 +35,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | Shushant Kumar Awasthi | https://github.com/awasthi108 |
 | HARSH VARDHAN SINGH | https://github.com/harsh082ip|
 | Priyansh Khare | https://github.com/PriyanshK09 |
+| Satyam yadav | https://github.com/satyamjiyadav |
 
 <br>
 <br>
@@ -280,7 +270,8 @@ Above listed operations user can perform as many numbers of times until user hit
 (Student is free to decide the input and output layout for this mini project)
 <br><br>
 
-[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-10.py)
+[``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-10.py) <br>
+[``Alternate Solution with GUI``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-25.py)
 
 
 <br>
