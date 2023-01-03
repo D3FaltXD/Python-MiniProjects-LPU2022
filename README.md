@@ -517,7 +517,7 @@ The given cake can be cut in following three ways:
 
 ## Project-22
 
-## `Need Solution`
+## `Solved`
 
 Your task is to find the name of the student with maximum marks after updation in marks and the jump in the student’s rank i.e., previous rank – current rank. <br><br>
 You are given three lists’ names, mark’s and update’s where: 
