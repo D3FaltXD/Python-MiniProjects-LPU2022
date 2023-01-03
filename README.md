@@ -36,6 +36,7 @@ Make sure to **STAR** the repo and **FOLLOW** the contributors!
 | HARSH VARDHAN SINGH | https://github.com/harsh082ip|
 | Priyansh Khare | https://github.com/PriyanshK09 |
 | Satyam yadav | https://github.com/satyamjiyadav |
+| Ashmit Mehta | https://github.com/Ash-codes18 |
 
 <br>
 <br>
@@ -530,6 +531,8 @@ You are given three lists’ names, mark’s and update’s where:
 <br><br>
 
 [``Solution``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-22.py)
+[``Menu Driven Approach``](https://github.com/D3FaltXD/Python-MiniProjects-LPU2022/blob/main/Projects/Project-22(Menu%20driven).py)
+
 
 <br>
 <br>
